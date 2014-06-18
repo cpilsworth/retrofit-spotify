@@ -1,7 +1,7 @@
 retrofit-spotify
 ================
 
-Basic example that uses the retrofit project to interact with the spotify api to get albums for a particular artist.
+Basic example that uses the [retrofit](http://square.github.io/retrofit/) project to interact with the [spotify api](https://developer.spotify.com/web-api/) to get albums for a particular artist.
 
 It demonstrates the following features:
 
