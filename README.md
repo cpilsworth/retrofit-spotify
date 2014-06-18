@@ -16,10 +16,8 @@ Service interfaces are defined like so:
 
 ```
 public interface SpotifyService {
-
     @GET("/artists/{id}/albums")
     Paged<Album[]> getAlbums(@Path("id") String artistId);
-
 }
 ```
 
