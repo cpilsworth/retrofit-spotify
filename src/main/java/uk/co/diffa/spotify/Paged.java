@@ -1,4 +1,4 @@
-package uk.co.diffa.twitter;
+package uk.co.diffa.spotify;
 
 public class Paged<T> {
 

@@ -1,4 +1,4 @@
-package uk.co.diffa.twitter;
+package uk.co.diffa.spotify;
 
 import retrofit.http.GET;
 import retrofit.http.Path;

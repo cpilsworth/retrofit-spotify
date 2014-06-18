@@ -1,9 +1,9 @@
-package uk.co.diffa.twitter;
+package uk.co.diffa.spotify;
 
 public class Album {
-    private String id;
-    private String name;
-    private String uri;
+    private final String id;
+    private final String name;
+    private final String uri;
 
     public Album(final String id, final String name, final String uri) {
         this.id = id;
